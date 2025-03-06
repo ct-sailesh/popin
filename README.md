@@ -1,5 +1,5 @@
 # POPIN 
-# Vue 3 + Vite
+with Vue 3 + Vite
 
 This is as basic component for showing up images/urls in a popup window frame.
 
